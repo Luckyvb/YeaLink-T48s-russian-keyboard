@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<KeyboardLayout>
+
+	<Line LeftIndent="5" TopIndent="7" Width="51" Height="54" >		
+		<Key LeftIndent="12"></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>		
+		<Key Width="107"></Key>
+	</Line>
+	
+	<Line LeftIndent="5" TopIndent="9" Width="51" Height="54">
+		<Key LeftIndent="40"></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>		
+		<Key Width="107"></Key>
+	</Line>
+	
+	<Line LeftIndent="5" TopIndent="9" Width="51" Height="54">
+		<Key LeftIndent="12"></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+	</Line>
+	
+	<Line LeftIndent="5" TopIndent="9" Width="51" Height="54">
+		<Key LeftIndent="12" Width="107"></Key>
+		<Key></Key>		
+		<Key Width="387"></Key>		
+		<Key></Key>
+		<Key></Key>		
+		<Key Width="107"></Key>
+	</Line>
+
+</KeyboardLayout>

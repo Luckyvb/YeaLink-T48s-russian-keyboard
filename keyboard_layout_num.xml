@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<KeyboardLayout>
+
+<!-- 801x256 -->
+
+	<Line LeftIndent="3" TopIndent="6" Width="64" Height="59" >		
+		<Key LeftIndent="5"></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key LeftIndent="31"></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key LeftIndent="31"></Key>
+	</Line>
+
+	<Line LeftIndent="3" TopIndent="3" Width="64" Height="59" >		
+		<Key LeftIndent="5"></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key LeftIndent="31"></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key LeftIndent="31" Height="121"></Key>
+	</Line>
+
+	<Line LeftIndent="3" TopIndent="3" Width="64" Height="59" >		
+		<Key LeftIndent="5"></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key LeftIndent="31"></Key>
+		<Key></Key>
+		<Key></Key>
+	</Line>
+
+	<Line LeftIndent="3" TopIndent="3" Width="64" Height="59" >		
+		<Key LeftIndent="5" Width="131"></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key></Key>
+		<Key LeftIndent="31" Width="131"></Key>
+		<Key></Key>
+		<Key LeftIndent="31"></Key>
+	</Line>
+</KeyboardLayout>

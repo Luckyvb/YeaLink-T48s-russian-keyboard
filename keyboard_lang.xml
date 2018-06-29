@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<KeyboardLang>
+
+    <Lang Name="Russia">
+		<Ime Name="keyboard_ime_russia.xml"></Ime>
+		<Ime Name="keyboard_ime_num.xml"></Ime>
+	</Lang>
+	
+	<Lang Name="English">
+		<Ime Name="keyboard_ime_english.xml"></Ime>
+		<Ime Name="keyboard_ime_num.xml"></Ime>
+	</Lang>
+				
+</KeyboardLang>
